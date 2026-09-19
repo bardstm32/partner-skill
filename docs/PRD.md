@@ -1,4 +1,4 @@
-# 💖 partner-skill (对象.skill) 产品需求文档 (PRD)
+# 💖 partner-skill (伴侣.skill) 产品需求文档 (PRD)
 
 > **“世界总在讲大道理，但在这里，你永远拥有被无条件偏爱与接住的温柔。”**  
 > *—— partner-skill 核心箴言*
