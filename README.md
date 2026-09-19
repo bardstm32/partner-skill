@@ -66,16 +66,16 @@
 #### Claude Code 用户：
 ```bash
 # 全局安装（所有项目通用）
-git clone https://github.com/your-username/partner-skill.git ~/.claude/skills/partner-skill
+git clone https://github.com/bardstm32/partner-skill.git ~/.claude/skills/partner-skill
 
 # 或当前项目安装
-git clone https://github.com/your-username/partner-skill.git .claude/skills/partner-skill
+git clone https://github.com/bardstm32/partner-skill.git .claude/skills/partner-skill
 ```
 
 #### Antigravity 用户：
 克隆至配置目录：
 ```bash
-git clone https://github.com/your-username/partner-skill.git ~/.gemini/config/skills/partner-skill
+git clone https://github.com/bardstm32/partner-skill.git ~/.gemini/config/skills/partner-skill
 ```
 
 ---
